@@ -10,5 +10,5 @@ The rapid growth of e-bike ridership is proposing the problem of deploying a sui
 Given a budget B, determine the subset of sites where to install the charging stations so that the total cost is not higher than B and the maximum distance between consecutive charging stations is minimized.
 Consider that the cyclist has to visit all the touristic destination in a consecutive way.
 
-# Grade
+# Final grade
 29/30
