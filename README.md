@@ -11,4 +11,4 @@ Given a budget B, determine the subset of sites where to install the charging st
 Consider that the cyclist has to visit all the touristic destination in a consecutive way.
 
 # Final grade
-29/30
+29/30 (Exam + project)
