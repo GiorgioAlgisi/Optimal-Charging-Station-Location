@@ -1,4 +1,4 @@
-# Optimal_charging_station_location
+# Optimal-Charging-Station-Location
 Project related to the exam of "Foundations of Operations Research" at POLIMI (Polytechnic university of Milan )
 
 # Introduction
